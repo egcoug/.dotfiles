@@ -1,0 +1,9 @@
+# Ignore homework directory and files
+Homework 02 CSCE 215
+
+# Ignore system-specific files
+.DS_Store
+
+# Ignore log files
+linuxsetup.log
+
